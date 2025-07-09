@@ -1,2 +1,2 @@
-# portfolio
+# 최정운 포트폴리오
 포트폴리오 repo
